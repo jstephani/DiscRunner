@@ -7,6 +7,11 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 moveInput;
     [SerializeField] private float moveSpeed = 1.6f;
     private Animator animator;
+    
+    // Movement Bounds
+    public Transform center; // center of the disc
+    public float minRadius = 0.5f;
+    public float maxRadius = 5.0f;
 
 
     void Start ()
@@ -27,6 +32,16 @@ public class PlayerMovement : MonoBehaviour
     void LateUpdate()
     {
         transform.rotation = Quaternion.identity;
+        
+        // Clamp position of player
+        Vector3 offset = transform.position - center.position;
+        float distance = offset.magnitude;
+        
+        if (distance > 0.001f)
+        {
+            float clampedDistance = Mathf.Clamp(distance, minRadius, maxRadius);
+            transform.position = center.position + offset.normalized * clampedDistance;
+        }
     }
 
     public void Move(InputAction.CallbackContext context)
