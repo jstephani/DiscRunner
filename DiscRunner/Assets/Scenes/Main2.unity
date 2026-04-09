@@ -937,10 +937,6 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1881303125}
-    - target: {fileID: 5069375656264945180, guid: 0346c6164217db741bbb851c544561fd, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 6181779047826580502, guid: 0346c6164217db741bbb851c544561fd, type: 3}
       propertyPath: m_Name
       value: Score (TMP)
