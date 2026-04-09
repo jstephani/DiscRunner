@@ -259,9 +259,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   moveSpeed: 1.6
-  center: {fileID: 0}
-  minRadius: 0.5
-  maxRadius: 5
+  center: {fileID: 1822821993669005739, guid: e77da82c613b91c49928899eebf9f34a, type: 3}
+  minRadius: 0.8
+  maxRadius: 2
 --- !u!50 &1401461291997725596
 Rigidbody2D:
   serializedVersion: 5
