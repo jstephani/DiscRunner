@@ -33,10 +33,10 @@ public class ObjectSpawner : MonoBehaviour
     {
         GameObject obj;
         float percent = Random.Range(0f,1f);
-        if (percent <= 0.75f) 
+        if (percent <= 0.70f) 
         {
             obj = spike;
-        } else if (percent <= 0.9f) 
+        } else if (percent <= 0.8f) 
         {
             obj = policeCar;
         } else
