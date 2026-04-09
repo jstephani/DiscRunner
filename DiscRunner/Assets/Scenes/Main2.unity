@@ -332,6 +332,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 269034213}
     - target: {fileID: 5672876420009171971, guid: 98767fbef351fe678897330f358ded5f, type: 3}
+      propertyPath: policeCar
+      value: 
+      objectReference: {fileID: 8322783140223816990, guid: fdcfe92bf575c70f09dff48163a21cd4, type: 3}
+    - target: {fileID: 5672876420009171971, guid: 98767fbef351fe678897330f358ded5f, type: 3}
+      propertyPath: collectible
+      value: 
+      objectReference: {fileID: 1210688435563009863, guid: 044f5dd13603332e4bb9f026821417a0, type: 3}
+    - target: {fileID: 5672876420009171971, guid: 98767fbef351fe678897330f358ded5f, type: 3}
       propertyPath: positionOffset
       value: 7.5
       objectReference: {fileID: 0}

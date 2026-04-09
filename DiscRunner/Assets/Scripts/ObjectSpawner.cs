@@ -4,7 +4,7 @@ public class ObjectSpawner : MonoBehaviour
 {
     public Transform parent;
     public GameObject policeCar;
-    public GameObject coin;
+    public GameObject collectible;
     public GameObject spike;
     public float spawnRate = 1f;
     private float timer = 0f;
@@ -41,7 +41,7 @@ public class ObjectSpawner : MonoBehaviour
             obj = policeCar;
         } else
         {
-            obj = coin;
+            obj = collectible;
         }
         float lowestPoint = transform.position.y - positionOffset;
         float highestPoint = transform.position.y + positionOffset;

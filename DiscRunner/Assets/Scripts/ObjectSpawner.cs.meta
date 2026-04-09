@@ -6,7 +6,7 @@ MonoImporter:
   defaultReferences:
   - parent: {fileID: 1822821993669005739, guid: e77da82c613b91c49928899eebf9f34a, type: 3}
   - policeCar: {fileID: 8322783140223816990, guid: fdcfe92bf575c70f09dff48163a21cd4, type: 3}
-  - coin: {fileID: 5960121753291522164, guid: df41c6003e9efdf46ab54c0642c266ca, type: 3}
+  - collectible: {fileID: 1210688435563009863, guid: 044f5dd13603332e4bb9f026821417a0, type: 3}
   - spike: {fileID: 905211239472030174, guid: b67df7eb9bce0934392f00765de1dc02, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
