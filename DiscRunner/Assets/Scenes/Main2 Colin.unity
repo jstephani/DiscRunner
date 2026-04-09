@@ -549,7 +549,7 @@ GameObject:
   - component: {fileID: 979648994}
   m_Layer: 0
   m_Name: Audio Manager
-  m_TagString: Untagged
+  m_TagString: Audio
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -569,8 +569,8 @@ MonoBehaviour:
   musicSource: {fileID: 486653897}
   SFXSource: {fileID: 794029935}
   background: {fileID: 8300000, guid: 99f3a01724cc3cc40806ef6dbc42558f, type: 3}
-  death: {fileID: 0}
-  coin: {fileID: 0}
+  death: {fileID: 8300000, guid: 85eec858f4b93ec42a0110022f17729b, type: 3}
+  coin: {fileID: 8300000, guid: c2c78c1bb3abbc24b8fc16f45ceb1287, type: 3}
   spike: {fileID: 0}
 --- !u!4 &979648995
 Transform:
