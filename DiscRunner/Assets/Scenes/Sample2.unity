@@ -209,17 +209,10 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
 --- !u!4 &966739673 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1822821993669005739, guid: e77da82c613b91c49928899eebf9f34a, type: 3}
   m_PrefabInstance: {fileID: 1866430325}
-=======
---- !u!1 &809360784 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5069375656264945180, guid: 0346c6164217db741bbb851c544561fd, type: 3}
-  m_PrefabInstance: {fileID: 4453998795240855546}
->>>>>>> Stashed changes
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &1723631844 stripped
 MonoBehaviour:
@@ -788,9 +781,4 @@ SceneRoots:
   - {fileID: 4453998795240855546}
   - {fileID: 724790920}
   - {fileID: 1151016755029346964}
-<<<<<<< Updated upstream
   - {fileID: 4218180168536043922}
-=======
-  - {fileID: 985928476533312399}
-  - {fileID: 8286929346492932843}
->>>>>>> Stashed changes
