@@ -21,4 +21,8 @@ public class ScoreManager : MonoBehaviour
         score += coinValue;
         text.text = "Score:" + score.ToString();
     }
+    public int getScore()
+    {
+        return score;
+    }
 }

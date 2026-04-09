@@ -12,6 +12,9 @@ public class LogicScript : MonoBehaviour
 
     public void gameOver(){
         gameOverScreen.SetActive(true);
+        int score =  ScoreManager.instance.getScore();
+        HighScoreManager.instance.ChangeHighScore(score);
+
     }
 }
 
