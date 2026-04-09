@@ -45,6 +45,13 @@ public class ObjectSpawner : MonoBehaviour
         }
         float lowestPoint = transform.position.y - positionOffset;
         float highestPoint = transform.position.y + positionOffset;
-        Instantiate(obj, new Vector3(transform.position.x, Random.Range(lowestPoint, highestPoint), 0), transform.rotation, parent);
+        GameObject instance = Instantiate(obj, new Vector3(transform.position.x, Random.Range(lowestPoint, highestPoint), 0), transform.rotation, parent);
+        // Do not inherit scale from parent
+        Vector3 parentScale = parent.lossyScale;
+        instance.transform.localScale = new Vector3(
+            1f / parentScale.x,
+            1f / parentScale.y,
+            1f / parentScale.z
+);
     }
 }

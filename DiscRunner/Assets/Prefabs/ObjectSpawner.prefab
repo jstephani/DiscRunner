@@ -25,7 +25,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2566636639775742281}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.065, y: 1.921, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -48,5 +48,5 @@ MonoBehaviour:
   tombstone: {fileID: 4935910884060031309, guid: b5538646d6eeba34aa463ad4e3745910, type: 3}
   coin: {fileID: 5960121753291522164, guid: df41c6003e9efdf46ab54c0642c266ca, type: 3}
   spike: {fileID: 905211239472030174, guid: b67df7eb9bce0934392f00765de1dc02, type: 3}
-  spawnRate: 5
-  positionOffset: 0.5
+  spawnRate: 1
+  positionOffset: 2
