@@ -564,7 +564,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   musicSource: {fileID: 486653897}
   SFXSource: {fileID: 794029935}
-  background: {fileID: 8300000, guid: afa5c4b04716818438e7c5cc92469496, type: 3}
+  background: {fileID: 8300000, guid: 99f3a01724cc3cc40806ef6dbc42558f, type: 3}
   death: {fileID: 0}
   coin: {fileID: 0}
   spike: {fileID: 0}
