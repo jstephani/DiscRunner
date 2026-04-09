@@ -43,7 +43,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: 99f3a01724cc3cc40806ef6dbc42558f, type: 3}
+  m_Resource: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -141,7 +141,7 @@ GameObject:
   - component: {fileID: 1849387270482116618}
   m_Layer: 0
   m_Name: Audio Manager
-  m_TagString: Untagged
+  m_TagString: Audio
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -178,8 +178,8 @@ MonoBehaviour:
   musicSource: {fileID: 5545371346735627099}
   SFXSource: {fileID: 9041037162977201116}
   background: {fileID: 8300000, guid: 99f3a01724cc3cc40806ef6dbc42558f, type: 3}
-  death: {fileID: 0}
-  coin: {fileID: 0}
+  death: {fileID: 8300000, guid: 85eec858f4b93ec42a0110022f17729b, type: 3}
+  coin: {fileID: 8300000, guid: c2c78c1bb3abbc24b8fc16f45ceb1287, type: 3}
   spike: {fileID: 0}
 --- !u!1 &8562847756959960728
 GameObject:
