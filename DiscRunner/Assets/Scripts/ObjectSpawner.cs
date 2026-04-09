@@ -3,7 +3,7 @@ using UnityEngine;
 public class ObjectSpawner : MonoBehaviour
 {
     public Transform parent;
-    public GameObject tombstone;
+    public GameObject policeCar;
     public GameObject coin;
     public GameObject spike;
     public float spawnRate = 1f;
@@ -38,7 +38,7 @@ public class ObjectSpawner : MonoBehaviour
             obj = spike;
         } else if (percent <= 0.9f) 
         {
-            obj = tombstone;
+            obj = policeCar;
         } else
         {
             obj = coin;
