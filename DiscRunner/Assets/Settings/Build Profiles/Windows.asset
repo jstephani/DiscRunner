@@ -17,7 +17,11 @@ MonoBehaviour:
   m_Subtarget: 2
   m_PlatformId: 4e3c793746204150860bf175a9a41a05
   m_PlatformBuildProfile:
+<<<<<<< HEAD
     rid: 4156025533353164801
+=======
+    rid: 8576967171541827864
+>>>>>>> 743fe4e2128868ecdc344d7b071b3361a143acf3
   m_OverrideGlobalSceneList: 0
   m_Scenes: []
   m_HasScriptingDefines: 0
@@ -27,7 +31,11 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
+<<<<<<< HEAD
     - rid: 4156025533353164801
+=======
+    - rid: 8576967171541827864
+>>>>>>> 743fe4e2128868ecdc344d7b071b3361a143acf3
       type: {class: WindowsPlatformSettings, ns: UnityEditor.WindowsStandalone, asm: UnityEditor.WindowsStandalone.Extensions}
       data:
         m_Development: 0
