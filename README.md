@@ -5,11 +5,11 @@ Disc Runner
 ## Genre
 Arcade
 
-## Installationsanleitung  
-Keine Installation nötig, das Spiel ist im Browser über Unity Play spielbar. Link: https://play.unity.com/en/games/60194177-2f39-465a-b836-37ce2176ffbb/discrunnerwebbuild
+## Installationsanleitung
+Über diesen Link kann man die Builds für Windows oder Linux herunterladen und dann die entsprechenden Dateien ausführen. 
 
 ## Systemanforderungen 
-Ein Webbrowser und Internetzugang.
+Windows oder Linux.
 
 ## Gameplay und Ziel  
 Der/Die Spieler:in muss auf einer sich bewegenden Plattform immer neuen Hindernissen ausweichen und Musiknoten einsammeln um einen Highscore aufzustellen.
