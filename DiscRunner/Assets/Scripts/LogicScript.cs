@@ -7,6 +7,7 @@ public class LogicScript : MonoBehaviour
 
     public void restartGame(){
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        Time.timeScale = 1;
     }
 
     public void gameOver(){

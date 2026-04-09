@@ -8,6 +8,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float moveSpeed = 1.6f;
     private Animator animator;
     public LogicScript logic;
+    //public bool playerIsAlive = true;
     
     // Movement Bounds
     public Transform center; // center of the disc
@@ -39,6 +40,8 @@ public class PlayerMovement : MonoBehaviour
         if(other.gameObject.CompareTag("Border"))
         {
             logic.gameOver();
+            //playerIsAlive = false;
+            Time.timeScale = 0;
         }
 
 
