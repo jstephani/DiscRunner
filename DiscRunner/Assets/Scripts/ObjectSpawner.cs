@@ -35,13 +35,13 @@ public class ObjectSpawner : MonoBehaviour
         float percent = Random.Range(0f,1f);
         if (percent <= 0.9f) 
         {
-            obj = coin;
+            obj = spike;
         } else if (percent <= 0.99f) 
         {
             obj = tombstone;
         } else
         {
-            obj = spike;
+            obj = coin;
         }
         float lowestPoint = transform.position.y - positionOffset;
         float highestPoint = transform.position.y + positionOffset;
