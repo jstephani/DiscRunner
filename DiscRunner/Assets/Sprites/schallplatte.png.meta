@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7b3d43f86275e4fedbecd15484497d5b
+guid: 16898c3a67b94c948b1e2f12356e6361
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6983332941718194744
-    second: schallplatten_0
+      213: 8982255740351116795
+    second: schallplatten 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,11 +96,24 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: schallplatten_0
+      name: schallplatten 1_0
       rect:
         serializedVersion: 2
         x: 31
@@ -115,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8c57a9450b7361f90800000000000000
-      internalID: -6983332941718194744
+      spriteID: bf5775d710267ac70800000000000000
+      internalID: 8982255740351116795
       vertices: []
       indices: 
       edges: []
@@ -135,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      schallplatten_0: -6983332941718194744
+      schallplatten 1_0: 8982255740351116795
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
