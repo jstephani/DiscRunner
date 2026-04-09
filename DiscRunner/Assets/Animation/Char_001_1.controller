@@ -339,7 +339,7 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: Blend
     m_Mirror: 0
-  m_BlendParameter: LastInputY
+  m_BlendParameter: LastInputX
   m_BlendParameterY: LastInputY
   m_MinThreshold: 0
   m_MaxThreshold: 1

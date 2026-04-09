@@ -16,6 +16,13 @@ public class LogicScript : MonoBehaviour
         Time.timeScale = 1;
     }
 
+    public void exitGame(){
+#if UNITY_EDITOR
+        UnityEditor.EditorApplication.isPlaying = false;
+#endif
+        Application.Quit();
+    }
+
     public void gameOver(){
         gameOverScreen.SetActive(true);
         int score =  ScoreManager.instance.getScore();
