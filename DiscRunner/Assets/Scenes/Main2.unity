@@ -1192,6 +1192,14 @@ PrefabInstance:
       propertyPath: text
       value: 
       objectReference: {fileID: 1723631844}
+    - target: {fileID: 7739389124850872985, guid: d4b80bc016040c64cbaf76e07744ed24, type: 3}
+      propertyPath: timeRate
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7739389124850872985, guid: d4b80bc016040c64cbaf76e07744ed24, type: 3}
+      propertyPath: multTimeRate
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
