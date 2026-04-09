@@ -6,15 +6,13 @@ public class ObjectSpawner : MonoBehaviour
     public GameObject tombstone;
     public GameObject coin;
     public GameObject spike;
-    private GameObject[] objects;
-    public float spawnRate = 5f;
+    public float spawnRate = 1f;
     private float timer = 0f;
     public float positionOffset= 0.5f;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        objects = new GameObject[] {tombstone, coin, spike};
         SpawnObject();
     }
 
@@ -33,7 +31,18 @@ public class ObjectSpawner : MonoBehaviour
     
     void SpawnObject()
     {
-        GameObject obj = objects[Random.Range(0,objects.Length)];
+        GameObject obj;
+        float percent = Random.Range(0f,1f);
+        if (percent <= 0.9f) 
+        {
+            obj = coin;
+        } else if (percent <= 0.99f) 
+        {
+            obj = tombstone;
+        } else
+        {
+            obj = spike;
+        }
         float lowestPoint = transform.position.y - positionOffset;
         float highestPoint = transform.position.y + positionOffset;
         Instantiate(obj, new Vector3(transform.position.x, Random.Range(lowestPoint, highestPoint), 0), transform.rotation, parent);
