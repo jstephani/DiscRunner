@@ -6,7 +6,7 @@ Disc Runner
 Arcade
 
 ## Installationsanleitung  
-Keine Installation nötig, das Spiel ist im Browser über Unity Play spielbar. Link:
+Keine Installation nötig, das Spiel ist im Browser über Unity Play spielbar. Link: https://play.unity.com/en/games/60194177-2f39-465a-b836-37ce2176ffbb/discrunnerwebbuild
 
 ## Systemanforderungen 
 Ein Webbrowser und Internetzugang.
