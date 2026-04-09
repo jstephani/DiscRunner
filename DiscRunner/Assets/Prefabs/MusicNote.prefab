@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 9173715173455325145}
   - component: {fileID: 3580859667763748404}
   - component: {fileID: 5365504127369753907}
+  - component: {fileID: -1295943859124253836}
   m_Layer: 0
   m_Name: MusicNote
   m_TagString: Coins
@@ -141,3 +142,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39e2a62accfcefd5c83ddbfcc549e549, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::KeepUpright
+--- !u!114 &-1295943859124253836
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1210688435563009863}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fbb12b17a60b7a498b67166e085fce4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Coin
+  coinValue: 1
