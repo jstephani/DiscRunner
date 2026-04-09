@@ -12,6 +12,6 @@ Screenshots:
 Kommen noch.
 
 Aufgabenverteilung:
-  Colin: Musik, Soundeffekte, Spieler-Sprite
-  Alex: Gameplay Idee
-  Jeremy: Startbildschirm, Musiknote-Sprite, Code für ObjectSpawner
+  Colin: Musik, Soundeffekte, Spieler-Sprite.
+  Alex: Gameplay Idee.
+  Jeremy: Startbildschirm, Musiknote-Sprite, Code für ObjectSpawner.
