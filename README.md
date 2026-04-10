@@ -14,6 +14,8 @@ Betriebssystem: Windows (64-bit), oder Linux.
 ## Gameplay und Ziel  
 Der/Die Spieler:in muss auf einer sich bewegenden Plattform Hindernissen ausweichen und Musiknoten einsammeln um einen Highscore aufzustellen.
 
+Es gibt zwei Arten von Hindernissen:
+Polizeiautos, die den Weg blockieren, und Spikes, die bei Berührung das Spiel sofort beenden.
 ## Screenshots
 Kommen noch.
 
