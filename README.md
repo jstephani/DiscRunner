@@ -6,7 +6,9 @@ Disc Runner
 Arcade
 
 ## Installationsanleitung
-Über diesen Link kann man die Builds für Windows oder Linux herunterladen, und das Spiel dann über die entsprechenden ausführbaren Dateien starten. 
+Über den folgenden Link kann man die Builds für Windows oder Linux herunterladen, und das Spiel dann über die entsprechenden ausführbaren Dateien starten.
+
+Link zu den Builds: https://github.com/jstephani/DiscRunnerBuilds
 
 ## Systemanforderungen 
 Betriebssystem: Windows (64-bit), oder Linux.
