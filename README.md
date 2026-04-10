@@ -6,7 +6,9 @@ Disc Runner
 Arcade
 
 ## Installationsanleitung
-Über diesen Link kann man die Builds für Windows oder Linux herunterladen, und das Spiel dann über die entsprechenden ausführbaren Dateien starten. 
+Über den folgenden Link kann man die Builds für Windows oder Linux herunterladen, und das Spiel dann über die entsprechenden ausführbaren Dateien starten.
+
+Link zu den Builds: https://github.com/jstephani/DiscRunnerBuilds
 
 ## Systemanforderungen 
 Betriebssystem: Windows (64-bit), oder Linux.
@@ -32,3 +34,16 @@ Chantal Lau: Inspiration für das Setting des Spiels.
 
 
 Musik: enthält modifizierte Version des Songs “I Feel Love” von Donna Summer
+
+### Sprites
+Stachel: https://dinopixel.com/spike-sprite-pixel-art-25609
+
+Musiknote: https://pixabay.com/de/illustrations/hinweis-musik-symbol-musiknote-7296802/
+
+Polizeiauto: 	https://freesvg.org/pixel-art-police-car
+
+Schallplatte: www.mediadig.de/leistungen/schallplatten-digitalisieren/
+
+Party Hintergrundbild: https://unsplash.com/photos/woman-singing-on-stage-hTv8aaPziOQ
+
+Spieler: Modifiziert von ursprünglichem Sprite von ElvGames.
