@@ -34,3 +34,16 @@ Chantal Lau: Inspiration für das Setting des Spiels.
 
 
 Musik: enthält modifizierte Version des Songs “I Feel Love” von Donna Summer
+
+### Sprites
+Stachel: https://dinopixel.com/spike-sprite-pixel-art-25609
+
+Musiknote: https://pixabay.com/de/illustrations/hinweis-musik-symbol-musiknote-7296802/
+
+Polizeiauto: 	https://freesvg.org/pixel-art-police-car
+
+Schallplatte: www.mediadig.de/leistungen/schallplatten-digitalisieren/
+
+Party Hintergrundbild: https://unsplash.com/photos/woman-singing-on-stage-hTv8aaPziOQ
+
+Spieler: Modifiziert von ursprünglichem Sprite von ElvGames.
