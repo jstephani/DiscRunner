@@ -26,3 +26,9 @@ Colin: Code, Musik, Sprites.
 Alex: Gameplay Idee.
 
 Jeremy: Code, Sprites.
+
+## Credits 
+Chantal Lau: Inspiration für das Setting des Spiels.
+
+
+Musik: enthält modifizierte Version des Songs “I Feel Love” von Donna Summer
