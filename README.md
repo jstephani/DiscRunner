@@ -18,8 +18,11 @@ Der/Die Spieler:in muss auf einer sich bewegenden Plattform Hindernissen ausweic
 
 Es gibt zwei Arten von Hindernissen:
 Polizeiautos, die den Weg blockieren, und Spikes, die bei Berührung das Spiel sofort beenden.
+
 ## Screenshots
-Kommen noch.
+![Start Screen](screenshots/start_screen.png)
+![Gameplay](screenshots/gameplay.png)
+![Game Over Screen](screenshots/game_over_screen.png)
 
 ## Aufgabenaufteilung
 
@@ -31,7 +34,6 @@ Jeremy: Code, Sprites.
 
 ## Credits 
 Chantal Lau: Inspiration für das Setting des Spiels.
-
 
 Musik: enthält modifizierte Version des Songs “I Feel Love” von Donna Summer
 
