@@ -20,8 +20,13 @@ Es gibt zwei Arten von Hindernissen:
 Polizeiautos, die den Weg blockieren, und Spikes, die bei Berührung das Spiel sofort beenden.
 
 ## Screenshots
+Start Screen:
 ![Start Screen](screenshots/start_screen.png)
+
+Gameplay:
 ![Gameplay](screenshots/gameplay.png)
+
+Game Over Screen:
 ![Game Over Screen](screenshots/game_over_screen.png)
 
 ## Aufgabenaufteilung
