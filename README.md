@@ -19,6 +19,9 @@ Der/Die Spieler:in muss auf einer sich bewegenden Plattform Hindernissen ausweic
 Es gibt zwei Arten von Hindernissen:
 Polizeiautos, die den Weg blockieren, und Spikes, die bei Berührung das Spiel sofort beenden.
 
+## Schwindelgefahr
+Längeres spielen kann aufgrund der konstanten Drehbewegung des Spielbereiches zu einem Schwindelgefühl führen.
+
 ## Screenshots
 Start Screen:
 ![Start Screen](screenshots/start_screen.png)
